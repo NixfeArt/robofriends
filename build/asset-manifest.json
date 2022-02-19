@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.7513526a.css",
+    "main.js": "/first-react-app/static/js/main.5cc8b814.js",
+    "static/js/787.32032a02.chunk.js": "/first-react-app/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/first-react-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/first-react-app/index.html",
+    "main.7513526a.css.map": "/first-react-app/static/css/main.7513526a.css.map",
+    "main.5cc8b814.js.map": "/first-react-app/static/js/main.5cc8b814.js.map",
+    "787.32032a02.chunk.js.map": "/first-react-app/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7513526a.css",
+    "static/js/main.5cc8b814.js"
+  ]
+}
